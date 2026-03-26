@@ -12,3 +12,7 @@ Las tecnologías utilizada son las siguientes:
 -   **Azure Key Vault**: gestión segura de secretos y credenciales.
 -   **Databricks**: transformación y procesamiento de datos.
 -   **Power BI**: análisis y visualización de la información.
+
+<p align="center">
+  <img src="https://github.com/atrigueroshol/end-to-end-azure-data-engineering-project/blob/main/img/arqu.png?raw=true" alt="Texto alternativo">
+</p>
